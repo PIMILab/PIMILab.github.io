@@ -8,9 +8,7 @@ permalink: /join
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
-
-We are looking for new group members with passion and talent!
+**We are looking for new group members with passion and talent!**
 
 You will have the opportunity to work at the frontier of scientific machine learning, where physical and mathematical structure meets modern AI. You’ll be involved in identifying meaningful scientific questions, developing new architectures grounded in geometry and mechanics, and applying these tools to model complex systems where traditional methods fall short. Your work may span the design of graph-based learning algorithms, integration with finite element methods, and deployment in high-impact domains such as climate modeling, fusion energy, or soft matter physics.
 
