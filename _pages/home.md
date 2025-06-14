@@ -48,6 +48,6 @@ We develop machine learning methods grounded in the **structure** of physics and
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sandia.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/seacrogs.jpg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/seacrogs.jpg" style="width: 140px">
 </figure>
