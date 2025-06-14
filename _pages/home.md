@@ -10,7 +10,7 @@ permalink: /
 
 We are a research group at [University of Pennsylvania](https://www.seas.upenn.edu/) led by Prof. [Nat Trask](https://directory.seas.upenn.edu/nat-trask/). 
 
-We have two overarching goals: first, **to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+We develop machine learning methods grounded in the structure of physics and mathematics. By combining tools from geometric mechanics, exterior calculus, and variational modeling with modern AI architectures, we create interpretable and reliable models for complex physical systems. Our work spans simulation, model discovery, and data-driven inference across multiscale and multiphysics domains—including energy, climate, fusion, and soft matter—where traditional approaches break down. At the core of our mission is a commitment to building scientifically faithful AI that advances understanding, not just prediction.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -44,9 +44,7 @@ We have two overarching goals: first, **to understand quantum materials**, inclu
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
 
 
 <figure class="fifth">
