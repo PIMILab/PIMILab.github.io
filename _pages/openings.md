@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "PIMILab - Join"
 layout: textlay
-excerpt: "Openings"
+excerpt: "PIMILab: Join"
 sitemap: false
 permalink: /vacancies
 ---
