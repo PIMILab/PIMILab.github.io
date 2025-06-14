@@ -3,7 +3,7 @@ title: "PIMILab - Join"
 layout: textlay
 excerpt: "PIMILab: Join"
 sitemap: false
-permalink: /vacancies
+permalink: /jobs
 ---
 
 # Open positions
