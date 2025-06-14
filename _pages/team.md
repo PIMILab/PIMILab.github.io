@@ -30,7 +30,7 @@ permalink: /team/
       {{ member.name }}
     {% endif %}
   </h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -100,7 +100,7 @@ permalink: /team/
       {{ member.name }}
     {% endif %}
   </h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
