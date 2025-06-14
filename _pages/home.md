@@ -24,13 +24,13 @@ We develop machine learning methods grounded in the **structure** of physics and
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser.jpg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -48,9 +48,6 @@ We develop machine learning methods grounded in the **structure** of physics and
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sandia.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/seacrogs.jpg" style="width: 140px">
 </figure>
