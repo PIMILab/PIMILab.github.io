@@ -1,17 +1,17 @@
-- title: "Signatures of Amorphous Shiba State in FeTe0.55Se0.45"
-  image: shiba_cover.jpg
-  description: Can superconducting coherence peaks form impurity-like ring patterns? And how can such features appear across the entire surface?  We suggest an an amorphous Shiba state located outside the superconducting gap – a Shiba liquid.
-  authors: Jinwon Lee* & Sanghun Lee*, Andreas Kreisel, Jens Paaske, Brian M. Andersen, Koen M. Bastiaans, Damianos Chatzopoulosm Genda GuDoohee Cho, Milan P. Allan
+- title: "Data-Driven Whitney Forms for Structure-Preserving Control Volume Analysis"
+  image: actor2024data.png
+  description: Control volume analysis models physics via the exchange of generalized fluxes between subdomains. We introduce a scientific machine learning framework adopting a partition of unity architecture to identify physically-relevant control volumes, with generalized fluxes between subdomains encoded via Whitney forms. The approach provides a differentiable parameterization of geometry which may be trained in an end-to-end fashion to extract reduced models from full field data while exactly preserving physics. The architecture admits a data-driven finite element exterior calculus allowing discovery of mixed finite element spaces with closed form quadrature rules. An equivalence between Whitney forms and graph networks reveals that the geometric problem of control volume learning is equivalent to an unsupervised graph discovery problem. The framework is developed for manifolds in arbitrary dimension, with examples provided for H (div) problems in R 2 establishing convergence and structure preservation properties. Finally, we consider a lithium-ion battery problem where we discover a reduced finite element space encoding transport pathways from high-fidelity microstructure resolved simulations. The approach reduces the 5.89 M finite element simulation to 136 elements while reproducing pressure to under 0.1% error and preserving conservation.
+  authors: Jonas A Actor, Xiaozhe Hu, Andy Huang, Scott A Roberts, Nathaniel Trask
   link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.4c05650
-    display: Nano Lett. 25, 4227 (2025)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0021999123006150
+    display: Journal of Computational Physics 496 (2024): 112520.
   highlight: 1
 
-- title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
-  image: BSCCO_noise.png
-  description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
-  authors: Jiasen Niu, Maialen Ortego Larrazabal, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan
+- title: "Unsupervised physics-informed disentanglement of multimodal data"
+  image: walker2025unsupervised.jpg
+  description: We introduce physics-informed multimodal autoencoders (PIMA) - a variational inference framework for discovering shared information in multimodal datasets. Individual modalities are embedded into a shared latent space and fused through a product-of-experts formulation, enabling a Gaussian mixture prior to identify shared features. Sampling from clusters allows cross-modal generative modeling, with a mixture-of-experts decoder that imposes inductive biases from prior scientific knowledge and thereby imparts structured disentanglement of the latent space. This approach enables cross-modal inference and the discovery of features in high-dimensional heterogeneous datasets. Consequently, this approach provides a means to discover fingerprints in multimodal scientific datasets and to avoid traditional bottlenecks related to high-fidelity measurement and characterization of scientific datasets.
+  authors: Elise Walker, Nathaniel Trask, Carianne Martinez, Kookjin Lee, Jonas A Actor, Sourav Saha, Troy Shilt, Daniel Vizoso, Remi Dingreville, Brad L Boyce
   link:
-    url: https://arxiv.org/abs/2409.15928
-    display: arXiv
+    url: https://www.aimsciences.org/article/doi/10.3934/fods.2024019
+    display: Foundations of Data Science 7.1 (2025): 418-445.
   highlight: 1
