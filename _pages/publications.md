@@ -9,8 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
-
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 {% assign number_printed = 0 %}
