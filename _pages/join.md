@@ -25,6 +25,6 @@ We currently advise students through the following M.Sc. and Ph.D. programs:
 Please check out the respective programs and apply to whichever fits better with your profile. Admissions are made at a department level by appointed committees. Unfortunately we cannot address all the requests we receive, but if you think you have a compelling story, with concrete links to our past or current research, please reach out!
 
 ### UPenn Undergraduates
-If you are a UPenn undergraduate and are interested in getting involved in the center’s research, feel free to get in touch. ​Applications should be submitted via email and should include a cover letter, a CV, a publication list, a detailed summary of research experience and interests, and three references uploaded in one attachment.
+If you are a UPenn undergraduate and are interested in getting involved in the center’s research, feel free to get in touch. ​Applications should be submitted via [email](mailto:ntrask@seas.upenn.edu) and should include a cover letter, a CV, a publication list, a detailed summary of research experience and interests, and three references uploaded in one attachment.
 
 On the computational end, courses in the following areas will help to get involved in the lab’s research: machine learning, scientific computing, computational fluid and solid mechanics, and high performance computing. **Solid Python programming skills are important**.
