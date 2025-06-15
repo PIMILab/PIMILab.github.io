@@ -13,5 +13,52 @@
   email: kinch@seas.upenn.edu 
   number_educ: 0
   education1: 
+  education2:
+
+- name: Max Win
+  photo: max_win.png
+  info: PhD student
+  email: maxw2@seas.upenn.edu 
+  number_educ: 0
+  education1: 
+  education2:    
+
+- name: Ben Schaffer
+  photo: ben_schaffer.jpg
+  info: PhD student
+  email: ben31@seas.upenn.edu 
+  number_educ: 0
+  education1: 
   education2:  
 
+- name: Gengzhan Guo
+  photo: gengzhan_guo.jpg
+  info: PhD student
+  email: gengzhan@seas.upenn.edu
+  number_educ: 0
+  education1: 
+  education2:  
+
+- name: Handi Zhang
+  photo: handi_zhang.jpg
+  info: PhD student
+  email: handi@sas.upenn.edu 
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Jonathan Mui
+  photo: jonathan_mui.jpg
+  info: PhD student
+  email: jonmui28@seas.upenn.edu
+  number_educ: 0
+  education1: 
+  education2:  
+
+- name: Helen Nguyen
+  photo: helen_nguyen.jpg
+  info: PhD student
+  email: helenvn@seas.upenn.edu 
+  number_educ: 0
+  education1: 
+  education2:  
