@@ -1,6 +1,6 @@
 - title: "Data-Driven Whitney Forms for Structure-Preserving Control Volume Analysis"
   image: actor2024data.png
-  description: Control volume analysis models physics via the exchange of generalized fluxes between subdomains. We introduce a scientific machine learning framework adopting a partition of unity architecture to identify physically-relevant control volumes, with generalized fluxes between subdomains encoded via Whitney forms. The approach provides a differentiable parameterization of geometry which may be trained in an end-to-end fashion to extract reduced models from full field data while exactly preserving physics. The architecture admits a data-driven finite element exterior calculus allowing discovery of mixed finite element spaces with closed form quadrature rules. An equivalence between Whitney forms and graph networks reveals that the geometric problem of control volume learning is equivalent to an unsupervised graph discovery problem. The framework is developed for manifolds in arbitrary dimension, with examples provided for H (div) problems in R 2 establishing convergence and structure preservation properties. Finally, we consider a lithium-ion battery problem where we discover a reduced finite element space encoding transport pathways from high-fidelity microstructure resolved simulations. The approach reduces the 5.89 M finite element simulation to 136 elements while reproducing pressure to under 0.1% error and preserving conservation.
+  description: We introduce a scientific machine learning framework adopting a partition of unity architecture to identify physically-relevant control volumes, with generalized fluxes between subdomains encoded via Whitney forms. 
   authors: Jonas A Actor, Xiaozhe Hu, Andy Huang, Scott A Roberts, Nathaniel Trask
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0021999123006150
@@ -9,7 +9,7 @@
 
 - title: "Unsupervised physics-informed disentanglement of multimodal data"
   image: walker2025unsupervised.jpg
-  description: We introduce physics-informed multimodal autoencoders (PIMA) - a variational inference framework for discovering shared information in multimodal datasets. Individual modalities are embedded into a shared latent space and fused through a product-of-experts formulation, enabling a Gaussian mixture prior to identify shared features. Sampling from clusters allows cross-modal generative modeling, with a mixture-of-experts decoder that imposes inductive biases from prior scientific knowledge and thereby imparts structured disentanglement of the latent space. This approach enables cross-modal inference and the discovery of features in high-dimensional heterogeneous datasets. Consequently, this approach provides a means to discover fingerprints in multimodal scientific datasets and to avoid traditional bottlenecks related to high-fidelity measurement and characterization of scientific datasets.
+  description: We introduce physics-informed multimodal autoencoders (PIMA) - a variational inference framework for discovering shared information in multimodal datasets. 
   authors: Elise Walker, Nathaniel Trask, Carianne Martinez, Kookjin Lee, Jonas A Actor, Sourav Saha, Troy Shilt, Daniel Vizoso, Remi Dingreville, Brad L Boyce
   link:
     url: https://www.aimsciences.org/article/doi/10.3934/fods.2024019
