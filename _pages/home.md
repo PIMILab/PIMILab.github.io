@@ -47,7 +47,7 @@ We develop machine learning methods grounded in the **structure of physics and m
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
 
 
-<figure class="fifth" style="display: flex; justify-content: center; gap: 40px; align-items: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="width: 130px;">
+<figure class="fifth" style="display: flex; justify-content: center; align-items: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="width: 130px; margin-right: 40px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/seacrogs.png" style="width: 140px;">
 </figure>
