@@ -17,11 +17,12 @@ Applications should be submitted via [email](mailto:ntrask@seas.upenn.edu) and s
 
 ### Prospective Graduate Students
 We currently advise students through the following M.Sc. and Ph.D. programs:
-- Applied Mathematics and Computational Science (AMCS)
-- Mechanical Engineering & Applied Mechanics (MEAM)
-- Computer and Information Science (CIS)
-- Data Science (DATS)
-- Scientific Computing (SCMP)
+- [Applied Mathematics and Computational Science (AMCS)](https://amcs.upenn.edu/phd-program/)
+- [Mechanical Engineering & Applied Mechanics (MEAM)](https://www.me.upenn.edu/doctoral/)
+- [Computer and Information Science (CIS)](https://www.cis.upenn.edu/graduate/program-offerings/doctoral-program/)
+- [Data Science (DATS)](https://dats.seas.upenn.edu/)
+- [Scientific Computing (SCMP)](https://pics.upenn.edu/masters-science-engineering-scientific-computing/)
+
 Please check out the respective programs and apply to whichever fits better with your profile. Admissions are made at a department level by appointed committees. Unfortunately we cannot address all the requests we receive, but if you think you have a compelling story, with concrete links to our past or current research, please reach out!
 
 ### UPenn Undergraduates
