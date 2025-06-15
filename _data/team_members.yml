@@ -11,6 +11,7 @@
   photo: brooks_kinch.jpg
   info: Postdoc
   email: kinch@seas.upenn.edu 
+  webpage: 
   number_educ: 0
   education1: 
   education2:
@@ -19,6 +20,7 @@
   photo: max_win.png
   info: PhD student
   email: maxw2@seas.upenn.edu 
+  webpage: 
   number_educ: 0
   education1: 
   education2:    
@@ -26,15 +28,17 @@
 - name: Ben Schaffer
   photo: ben_schaffer.jpg
   info: PhD student
-  email: ben31@seas.upenn.edu 
+  email: ben31@seas.upenn.edu
+  webpage:  
   number_educ: 0
   education1: 
   education2:  
 
 - name: Gengzhan Guo
-  photo: gengzhan_guo.jpg
+  photo: gengzhan_guo.png
   info: PhD student
   email: gengzhan@seas.upenn.edu
+  webpage: 
   number_educ: 0
   education1: 
   education2:  
@@ -43,6 +47,7 @@
   photo: handi_zhang.jpg
   info: PhD student
   email: handi@sas.upenn.edu 
+  webpage: 
   number_educ: 0
   education1: 
   education2: 
@@ -51,6 +56,7 @@
   photo: jonathan_mui.jpg
   info: PhD student
   email: jonmui28@seas.upenn.edu
+  webpage: 
   number_educ: 0
   education1: 
   education2:  
@@ -59,6 +65,7 @@
   photo: helen_nguyen.jpg
   info: PhD student
   email: helenvn@seas.upenn.edu 
+  webpage: 
   number_educ: 0
   education1: 
   education2:  
