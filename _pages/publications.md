@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Highlights
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
@@ -51,7 +51,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications
+## Full List
 
 {% for publi in site.data.publist %}
 
