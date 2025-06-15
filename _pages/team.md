@@ -148,8 +148,8 @@ permalink: /team/
 </div>
 {% endif %}
 
-<!--
-## Former visitors, BSc/ MSc students
+
+## Former visitors and students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -173,4 +173,4 @@ permalink: /team/
 {% endfor %}
 </div>
 
-</div> -->
+</div> 
