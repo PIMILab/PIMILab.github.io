@@ -8,7 +8,7 @@ permalink: /
 
 <h1>Welcome to the Physics-Informed Machine Intelligence Laboratory</h1>
 
-We are a research group at [University of Pennsylvania](https://www.seas.upenn.edu/) led by Prof. [Nat Trask](https://directory.seas.upenn.edu/nat-trask/). 
+We are a research group at [University of Pennsylvania](https://www.seas.upenn.edu/) led by [Prof. Nat Trask](https://directory.seas.upenn.edu/nat-trask/). 
 
 We develop machine learning methods grounded in the **structure of physics and mathematics**. By combining tools from geometric mechanics, exterior calculus, and variational modeling with modern AI architectures, we create **interpretable** and **reliable** models for complex physical systems. Our work spans simulation, model discovery, and data-driven inference across multiscale and multiphysics domains—including energy, climate, fusion, and soft matter—where traditional approaches break down. At the core of our mission is a commitment to building **scientifically faithful AI** that advances understanding, not just prediction.
 
@@ -47,6 +47,7 @@ We develop machine learning methods grounded in the **structure of physics and m
 
 
 <figure class="fifth" style="display: flex; justify-content: center; align-items: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="width: 130px; margin-right: 40px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/seacrogs.png" style="width: 140px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="height: 50px; margin-right: 40px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/nsf.jpg" style="height: 50px; margin-right: 40px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/seacrogs.png" style="height: 50px;">
 </figure>
