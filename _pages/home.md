@@ -12,7 +12,7 @@ We are a research group at [University of Pennsylvania](https://www.seas.upenn.e
 
 We develop machine learning methods grounded in the **structure of physics and mathematics**. By combining tools from geometric mechanics, exterior calculus, and variational modeling with modern AI architectures, we create **interpretable** and **reliable** models for complex physical systems. Our work spans simulation, model discovery, and data-driven inference across multiscale and multiphysics domains—including energy, climate, fusion, and soft matter—where traditional approaches break down. At the core of our mission is a commitment to building **scientifically faithful AI** that advances understanding, not just prediction.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="1000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>

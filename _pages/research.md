@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-Our group focuses on integrating the fundamental structure of physics and mathematics into machine learning architectures. By embedding principles from geometric mechanics, exterior calculus, and variational methods into neural networks, we develop models that are both expressive and scientifically grounded. This approach allows us to construct AI systems capable of operating in extreme physical regimes, where traditional first-principles modeling becomes intractable.
+Our group focuses on integrating the fundamental **structure of physics and mathematics** into machine learning architectures. By embedding principles from geometric mechanics, exterior calculus, and variational methods into neural networks, we develop models that are both **expressive and scientifically grounded**. This approach allows us to construct AI systems capable of operating in extreme physical regimes, where traditional first-principles modeling becomes intractable.
 
-We aim to bridge the gap between rigorous mathematical modeling and data-driven discovery, enabling tools for scientific inference, digital twins, and autonomous experimentation. Our work spans a wide range of multiscale and multiphysics domains—including energy systems, climate science, fusion power, and soft matter—where we develop learning algorithms inspired by finite element discretizations and graph-based representations. At the core of our mission is a belief that combining structure and learning will unlock the next generation of predictive, interpretable AI for science and engineering.
+We aim to bridge the gap between rigorous mathematical modeling and data-driven discovery, enabling tools for scientific inference, digital twins, and autonomous experimentation. Our work spans a wide range of **multiscale** and **multiphysics** domains—including energy systems, climate science, fusion power, and soft matter—where we develop learning algorithms inspired by finite element discretizations and graph-based representations. At the core of our mission is a belief that combining structure and learning will unlock the next generation of predictive, interpretable AI for science and engineering.
 
 Here are some themes and techniques that we currently work on:
 
