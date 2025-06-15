@@ -43,7 +43,7 @@ We develop machine learning methods grounded in the **structure of physics and m
 </div>
 
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join) **!**
 
 
 <figure class="fifth" style="display: flex; justify-content: center; align-items: center;">
