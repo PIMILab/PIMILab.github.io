@@ -9,6 +9,15 @@ img { margin-bottom: 24px;
 }
 
 
+.full-title { display: inline; }
+.short-title { display: none; }
+
+@media (max-width: 768px) {
+  .full-title { display: none; }
+  .short-title { display: inline; }
+}
+
+
 body {
 	padding-top: 70px;
 }
