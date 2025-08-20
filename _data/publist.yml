@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Structure-Preserving Digital Twins via Conditional Neural Whitney Forms"
-  image: kinch2025structure.jpg
+  image: kinch2025structure.png
   description: We propose a framework for real-time digital twins using structure-preserving reduced finite element models conditioned on a latent variable. Conditional attention learns both a reduced basis and nonlinear conservation laws within finite element exterior calculus, ensuring well-posedness and exact conservation despite sparse data. The method enables real-time calibration to sensor data, integrates seamlessly with standard finite element tools, and handles complex geometries. Benchmarks from advection–diffusion to battery thermal runaway show accurate predictions with only 25 LES simulations and real-time inference (~0.1s, 3.1×10^8 speedup).
   authors: Brooks Kinch, Benjamin Shaffer, Elizabeth Armstrong, Michael Meehan, John Hewson, Nathaniel Trask
   link:
