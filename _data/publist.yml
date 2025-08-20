@@ -1,17 +1,17 @@
-- title: "Data-Driven Whitney Forms for Structure-Preserving Control Volume Analysis"
-  image: actor2024data.png
-  description: We introduce a scientific machine learning framework adopting a partition of unity architecture to identify physically-relevant control volumes, with generalized fluxes between subdomains encoded via Whitney forms. The approach provides a differentiable parameterization of geometry which may be trained in an end-to-end fashion to extract reduced models from full field data while exactly preserving physics. 
-  authors: Jonas A Actor, Xiaozhe Hu, Andy Huang, Scott A Roberts, Nathaniel Trask
+- title: "Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems"
+  image: hernandez2025data.png
+  description: Multiscale systems are difficult to simulate since fine-scale dynamics must be linked to emergent bulk physics. Coarse-graining high-dimensional dynamics inevitably produces dissipative, history-dependent, and stochastic behavior. We propose a metriplectic-bracket-based framework that learns such coarse-grained dynamics from particle trajectories while guaranteeing thermodynamic consistency, momentum conservation, and fluctuation–dissipation balance. A self-supervised strategy identifies emergent structural variables without labels. We validate the method on benchmark systems, star polymers, and colloidal suspensions, and release open-source implementations in PyTorch and LAMMPS for large-scale inference.
+  authors: Quercus Hernandez, Max Win, Thomas C. O'Connor, Paulo E. Arratia, Nathaniel Trask
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0021999123006150
-    display: Journal of Computational Physics 496 (2024), 112520.
+    url: https://arxiv.org/abs/2508.12569
+    display: arXiv preprint, arXiv:2508.12569 (Under review)
   highlight: 1
 
-- title: "Unsupervised physics-informed disentanglement of multimodal data"
-  image: walker2025unsupervised.jpg
-  description: We introduce physics-informed multimodal autoencoders (PIMA) - a variational inference framework for discovering shared information in multimodal datasets. Individual modalities are embedded into a shared latent space and fused through a product-of-experts formulation, enabling a Gaussian mixture prior to identify shared features. 
-  authors: Elise Walker, Nathaniel Trask, Carianne Martinez, Kookjin Lee, Jonas A Actor, Sourav Saha, Troy Shilt, Daniel Vizoso, Remi Dingreville, Brad L Boyce
+- title: "Structure-Preserving Digital Twins via Conditional Neural Whitney Forms"
+  image: kinch2025structure.jpg
+  description: We propose a framework for real-time digital twins using structure-preserving reduced finite element models conditioned on a latent variable. Conditional attention learns both a reduced basis and nonlinear conservation laws within finite element exterior calculus, ensuring well-posedness and exact conservation despite sparse data. The method enables real-time calibration to sensor data, integrates seamlessly with standard finite element tools, and handles complex geometries. Benchmarks from advection–diffusion to battery thermal runaway show accurate predictions with only 25 LES simulations and real-time inference (~0.1s, 3.1×10^8 speedup).
+  authors: Brooks Kinch, Benjamin Shaffer, Elizabeth Armstrong, Michael Meehan, John Hewson, Nathaniel Trask
   link:
-    url: https://www.aimsciences.org/article/doi/10.3934/fods.2024019
-    display: Foundations of Data Science 7.1 (2025), 418-445.
+    url: https://arxiv.org/abs/2508.06981
+    display: arXiv preprint, arXiv:2508.06981 (Under review)
   highlight: 1
