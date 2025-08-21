@@ -33,8 +33,11 @@ We develop machine learning methods grounded in the **structure of physics and g
             <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser3.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser3.jpg" alt="Slide 3" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser4.png" alt="Slide 3" />
+        </div>        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
