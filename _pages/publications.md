@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
+**We highlight here some exciting recent preprints. At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
-**You can find the open-source implementations in our group's [Github](https://github.com/PIMILab).**
+**You can find open-source software for most recent papers on our group's [Github](https://github.com/PIMILab).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
