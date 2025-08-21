@@ -10,7 +10,7 @@ permalink: /
 
 We are a research group at [University of Pennsylvania](https://www.seas.upenn.edu/) led by [Prof. Nat Trask](https://directory.seas.upenn.edu/nat-trask/). 
 
-We develop machine learning methods grounded in the **structure of physics and geometry**. By combining tools from geometric mechanics, exterior calculus, and variational modeling with modern AI architectures, we create **interpretable** and **reliable** models for complex physical systems in high-consequence engineering settings. Our work spans simulation, scientific discovery, and data-driven inference across multiscale and multiphysics domains including energy, material discovery, fusion, and soft matter. Our groups primary focus is on the construction of learning frameworks that encode physical principles **by construction in neural architectures** so that models provide the stability, physical realizability, and performance guarantees that are crucial to traditional modeling and simulation but lacking in contemporary machine learned models.
+We develop machine learning methods grounded in the **structure of physics and geometry**. By combining tools from geometric mechanics, exterior calculus, and variational modeling with modern AI architectures, we create **interpretable** and **reliable** models for complex physical systems in high-consequence engineering settings. Our work spans simulation, scientific discovery, and data-driven inference across multiscale and multiphysics domains including energy, material discovery, fusion, and soft matter. Our group's primary focus is on the construction of learning frameworks that encode physical principles **by construction in neural architectures** so that models provide the stability, physical realizability, and performance guarantees that are crucial to traditional modeling and simulation but lacking in contemporary machine learned models.
 
 **Check our group's [Github](https://github.com/PIMILab)!**
 
@@ -22,6 +22,7 @@ We develop machine learning methods grounded in the **structure of physics and g
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -36,7 +37,7 @@ We develop machine learning methods grounded in the **structure of physics and g
             <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser3.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser4.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser4.png" alt="Slide 4" />
         </div>        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
