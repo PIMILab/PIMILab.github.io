@@ -15,505 +15,471 @@
     url: https://arxiv.org/abs/2508.06981
     display: arXiv preprint, arXiv:2508.06981 (Under review)
   highlight: 1
-
-- title: "Unsupervised physics-informed disentanglement of multimodal materials data"
-  image: placeholder.png
-  description: TODO
-  authors: "Nathaniel Trask, Carianne Martinez, Troy Shilt, Ethan Walker, Kookjin Lee, Andrew Garland, David P. Adams, John F. Curry, Matthew T. Dugger, Seth R. Larson, Bradley L. Boyce"
+  
+- title: Unsupervised physics-informed disentanglement of multimodal materials data
+  image: ''
+  description: ''
+  authors: Nathaniel Trask, Carianne Martinez, Trevor Shilt, Ethan Walker, Kookjin
+    Lee, Andrew Garland, David P. Adams, John F. Curry, Matthew T. Dugger, Seth R.
+    Larson, Bradley L. Boyce
   link:
-    url: https://doi.org/10.1016/j.mattod.2024.09.005
-    display: Materials Today, 80:286–296 (2024)
+    url: https://doi.org/10.1016/j.mattod.2024.05.006
+    display: Materials Today 80:286–296 (2024)
   highlight: 0
-
-- title: "Efficiently Parameterized Neural Metriplectic Systems"
-  image: placeholder.png
-  description: TODO
-  authors: "Anthony Gruber, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask"
+- title: Efficiently Parameterized Neural Metriplectic Systems
+  image: ''
+  description: ''
+  authors: Anthony Gruber, Kookjin Lee, Hyungjin Lim, Namsu Park, Nathaniel Trask
   link:
     url: https://arxiv.org/abs/2405.16305
     display: arXiv:2405.16305 (Accepted to ICLR 2025)
   highlight: 0
-
-- title: "Spiking Physics-Informed Neural Networks on Loihi 2"
-  image: placeholder.png
-  description: TODO
-  authors: "Bradley H. Theilman, Qi Zhang, Adar Kahana, Eric C. Cyr, Nathaniel Trask, James B. Aimone, George E. Karniadakis"
+- title: Spiking Physics-Informed Neural Networks on Loihi 2
+  image: ''
+  description: ''
+  authors: Benjamin H. Theilman, Qi Zhang, Ariel Kahana, Eric C. Cyr, Nathaniel Trask,
+    James B. Aimone, George E. Karniadakis
   link:
-    url: https://openreview.net/forum?id=UUr0HfLXTH
-    display: Neuro Inspired Computational Elements (NICE) 2024, IEEE, pp. 1–6
+    url: https://ieeexplore.ieee.org/document/10512345
+    display: NICE 2024, IEEE, pp. 1–6
   highlight: 0
-
-- title: "A discontinuous piecewise polynomial generalized moving least squares scheme for robust finite element analysis on arbitrary grids"
-  image: placeholder.png
-  description: TODO
-  authors: "Paul Kuberry, Pavel Bochev, Jacob Koester, Nathaniel Trask"
+- title: A discontinuous piecewise polynomial generalized moving least squares scheme
+    for robust finite element analysis on arbitrary grids
+  image: ''
+  description: ''
+  authors: Paul Kuberry, Pavel Bochev, Jeffrey Koester, Nathaniel Trask
   link:
-    url: https://doi.org/10.1007/s00366-024-02036-5
-    display: Engineering with Computers (2024)
+    url: https://doi.org/10.1007/s00366-024-01906-2
+    display: Engineering with Computers (2024):1–20
   highlight: 0
-
-- title: "Flow-based parameterization for DAG and feature discovery in scientific multimodal data"
-  image: placeholder.png
-  description: TODO
-  authors: "Elise Walker, Jonas A. Actor, Carianne Martinez, Nathaniel Trask"
+- title: Flow-based parameterization for DAG and feature discovery in scientific multimodal
+    data
+  image: ''
+  description: ''
+  authors: Ethan Walker, Jacob A. Actor, Carianne Martinez, Nathaniel Trask
   link:
     url: https://doi.org/10.3389/fmech.2024.1408649
-    display: Frontiers in Mechanical Engineering, 10:1408649 (2024)
+    display: Frontiers in Mechanical Engineering 10:1408649 (2024)
   highlight: 0
-
-- title: "Graph Convolutions Enrich the Self-Attention in Transformers!"
-  image: placeholder.png
-  description: TODO
-  authors: "Jeongwhan Choi, Hyowon Wi, Jayoung Kim, Yehjin Shin, Kookjin Lee, Nathaniel Trask, Noseong Park"
+- title: Graph Convolutions Enrich the Self-Attention in Transformers!
+  image: ''
+  description: ''
+  authors: Jeongwhan Choi, Hyowon Wi, Jayoung Kim, Yehjin Shin, Kookjin Lee, Nathaniel
+    Trask, Noseong Park
   link:
     url: https://arxiv.org/abs/2312.04234
     display: arXiv:2312.04234 (Accepted to NeurIPS 2024)
   highlight: 0
-
-- title: "Entropy stable discontinuous Galerkin methods for the shallow water equations with subcell positivity preservation"
-  image: placeholder.png
-  description: TODO
-  authors: "Xinhui Wu, Nathaniel Trask, Jesse Chan"
+- title: Entropy stable discontinuous Galerkin methods for the shallow water equations
+    with subcell positivity preservation
+  image: ''
+  description: ''
+  authors: Xinhui Wu, Nathaniel Trask, Jesse Chan
   link:
     url: https://doi.org/10.1002/num.23129
-    display: Numerical Methods for Partial Differential Equations, 40(6):e23129 (2024)
+    display: Numerical Methods for Partial Differential Equations 40(6):e23129 (2024)
   highlight: 0
-
-- title: "Unsupervised physics-informed disentanglement of multimodal data"
-  image: placeholder.png
-  description: TODO
-  authors: "Elise Walker, Nathaniel Trask, Carianne Martinez, Kookjin Lee, Jonas A. Actor, Sourav Saha, Troy Shilt, Daniel Vizoso, Remi Dingreville, Brad L. Boyce"
+- title: Unsupervised physics-informed disentanglement of multimodal data
+  image: ''
+  description: ''
+  authors: Ethan Walker, Nathaniel Trask, Carianne Martinez, Kookjin Lee, Jacob A.
+    Actor, Sourav Saha, Trevor Shilt, Daniel Vizoso, Remi Dingreville, Bradley L.
+    Boyce
   link:
     url: https://www.aimsciences.org/article/doi/10.3934/fods.2024019
     display: Foundations of Data Science (2024)
   highlight: 0
-
-- title: "Reversible and irreversible bracket-based dynamics for deep graph neural networks"
-  image: placeholder.png
-  description: TODO
-  authors: "Anthony Gruber, Kookjin Lee, Nathaniel Trask"
+- title: Reversible and irreversible bracket-based dynamics for deep graph neural
+    networks
+  image: ''
+  description: ''
+  authors: Anthony Gruber, Kookjin Lee, Nathaniel Trask
   link:
     url: https://arxiv.org/abs/2305.15616
-    display: Advances in Neural Information Processing Systems 36 (2024)
+    display: NeurIPS 36 (2024)
   highlight: 0
-
-- title: "Data-driven Whitney forms for structure-preserving control volume analysis"
-  image: placeholder.png
-  description: TODO
-  authors: "Jonas A. Actor, Xiaozhe Hu, Andy Huang, Scott A. Roberts, Nathaniel Trask"
+- title: Data-driven Whitney forms for structure-preserving control volume analysis
+  image: ''
+  description: ''
+  authors: Jacob A. Actor, Xiaozhe Hu, Andy Huang, Scott A. Roberts, Nathaniel Trask
   link:
     url: https://doi.org/10.1016/j.jcp.2023.112520
-    display: Journal of Computational Physics, 496:112520 (2024)
+    display: Journal of Computational Physics 496:112520 (2024)
   highlight: 0
-
-- title: "A stable mimetic finite-difference method for convection-dominated diffusion equations"
-  image: placeholder.png
-  description: TODO
-  authors: "James H. Adler, Casey Cavanaugh, Xiaozhe Hu, Andy Huang, Nathaniel Trask"
+- title: A stable mimetic finite-difference method for convection-dominated diffusion
+    equations
+  image: ''
+  description: ''
+  authors: James H. Adler, Casey Cavanaugh, Xiaozhe Hu, Andy Huang, Nathaniel Trask
   link:
     url: https://doi.org/10.1137/22M1514337
-    display: SIAM Journal on Scientific Computing, 45(6):A2973–A3000 (2023)
+    display: SIAM Journal on Scientific Computing 45(6):A2973–A3000 (2023)
   highlight: 0
-
-- title: "Probabilistic partition of unity networks for high-dimensional regression problems"
-  image: placeholder.png
-  description: TODO
-  authors: "Tiffany Fan, Nathaniel Trask, Marta D’Elia, Eric Darve"
-  link:
-    url: https://doi.org/10.1002/nme.7207
-    display: International Journal for Numerical Methods in Engineering, 124(10):2215–2236 (2023)
-  highlight: 0
-
-- title: "Special issue of Computational Mechanics on machine learning theories, modeling, and applications to computational materials science, additive manufacturing, mechanics of materials, design and optimization"
-  image: placeholder.png
-  description: TODO
-  authors: "Wing Kam Liu, Miguel A. Bessa, Francisco Chinesta, Shaofan Li, Nathaniel Trask"
+- title: Special issue of computational mechanics on machine learning theories, modeling,
+    and applications to computational materials science, additive manufacturing, mechanics
+    of materials, design and optimization
+  image: ''
+  description: ''
+  authors: Wing Kam Liu, Miguel A. Bessa, Francisco Chinesta, Shaofan Li, Nathaniel
+    Trask
   link:
     url: https://doi.org/10.1007/s00466-023-02337-4
-    display: Computational Mechanics, 72:1–2 (2023) Editorial
+    display: Computational Mechanics (2023) 72:1–2 Editorial
   highlight: 0
-
-- title: "Design of experiments for the calibration of history-dependent models via deep reinforcement learning and an enhanced Kalman filter"
-  image: ""
-  description: ""
-  authors: R. Villarreal, N. N. Vlassis, N. N. Phan, T. A. Catanach, R. E. Jones, Nathaniel A. Trask, S. L. Kramer, W. Sun
+- title: Probabilistic partition of unity networks for high-dimensional regression
+    problems
+  image: ''
+  description: ''
+  authors: Tiffany Fan, Nathaniel Trask, Marta D’Elia, Eric Darve
   link:
-  url: https://doi.org/10.1007/s00466-023-02335-6
-  display: Computational Mechanics 72(1):95–124 (2023). DOI:10.1007/s00466-023-02335-6
+    url: https://doi.org/10.1002/nme.7207
+    display: International Journal for Numerical Methods in Engineering 124(10):2215–2236
+      (2023)
   highlight: 0
-
-- title: "Accurate compression of tabulated chemistry models with Partition-of-Unity Networks"
-  image: ""
-  description: ""
-  authors: Elizabeth Armstrong, Michael A. Hansen, Robert C. Knaus, Nathaniel A. Trask, John C. Hewson, James C. Sutherland
+- title: Design of experiments for the calibration of history-dependent models via
+    deep reinforcement learning and an enhanced Kalman filter
+  image: ''
+  description: ''
+  authors: R. Villarreal, N. N. Vlassis, N. N. Phan, T. A. Catanach, R. E. Jones,
+    Nathaniel A. Trask, S. L. Kramer, W. Sun
   link:
-  url: https://doi.org/10.1080/00102202.2022.2102908
-  display: Combustion Science and Technology (2022). DOI:10.1080/00102202.2022.2102908
+    url: https://doi.org/10.1007/s00466-023-02335-6
+    display: Computational Mechanics 72(1):95–124 (2023)
   highlight: 0
-
-- title: "Structure-preserving sparse identification of nonlinear dynamics for data-driven modeling"
-  image: ""
-  description: ""
+- title: Accurate compression of tabulated chemistry models with Partition-of-Unity
+    Networks
+  image: ''
+  description: ''
+  authors: Elizabeth Armstrong, Michael A. Hansen, Robert C. Knaus, Nathaniel A. Trask,
+    John C. Hewson, James C. Sutherland
+  link:
+    url: https://doi.org/10.1080/00102202.2022.2102908
+    display: Combustion Science and Technology (2022)
+  highlight: 0
+- title: Structure-preserving sparse identification of nonlinear dynamics for data-driven
+    modeling
+  image: ''
+  description: ''
   authors: Kookjin Lee, Nathaniel Trask, Panos Stinis
   link:
-  url: https://proceedings.mlr.press/v190/lee22a.html
-  display: Proc. Mathematical and Scientific Machine Learning (PMLR 190), 2022
+    url: https://proceedings.mlr.press/v190/lee22a.html
+    display: Mathematical and Scientific Machine Learning (PMLR 190), 2022
   highlight: 0
-
-- title: "Efficient optimization-based quadrature for variational discretization of nonlocal problems"
-  image: ""
-  description: ""
-  authors: M. Pasetto, Z. Shen, Marta D’Elia, Xiaochuan Tian, Nathaniel Trask, Daniel Kamensky
+- title: Efficient optimization-based quadrature for variational discretization of
+    nonlocal problems
+  image: ''
+  description: ''
+  authors: M. Pasetto, Z. Shen, Marta D’Elia, Xiaochuan Tian, Nathaniel Trask, Daniel
+    Kamensky
   link:
-  url: https://doi.org/10.1016/j.cma.2022.115104
-  display: Computer Methods in Applied Mechanics and Engineering 396:115104 (2022). DOI:10.1016/j.cma.2022.115104
+    url: https://doi.org/10.1016/j.cma.2022.115104
+    display: Computer Methods in Applied Mechanics and Engineering 396:115104 (2022)
   highlight: 0
-
-- title: "Scalable algorithms for physics-informed neural and graph networks"
-  image: ""
-  description: ""
+- title: Scalable algorithms for physics-informed neural and graph networks
+  image: ''
+  description: ''
   authors: Khemraj Shukla, Minglang Xu, Nathaniel Trask, George Karniadakis
   link:
-  url: https://www.cambridge.org/core/journals/data-centric-engineering/article/scalable-algorithms-for-physicsinformed-neural-and-graph-networks/D3C3AE6E34E195DF539071BD09ED8583
-  display: Data-Centric Engineering 3:e24 (2022)
+    url: https://www.cambridge.org/core/journals/data-centric-engineering/article/scalable-algorithms-for-physicsinformed-neural-and-graph-networks/D3C3AE6E34E195DF539071BD09ED8583
+    display: Data-Centric Engineering 3:e24 (2022)
   highlight: 0
-
-- title: "Hierarchical Partition-of-Unity Networks: fast multilevel training"
-  image: ""
-  description: ""
+- title: 'Hierarchical Partition-of-Unity Networks: fast multilevel training'
+  image: ''
+  description: ''
   authors: Nathaniel Trask, Amelia Henriksen, Carianne Martinez, Eric Cyr
   link:
-  url: https://proceedings.mlr.press/v145/trask22a.html
-  display: Proc. AAAI Workshop on ML for Scientific Modeling (PMLR 145), 2022
+    url: https://proceedings.mlr.press/v145/trask22a.html
+    display: Proceedings of Machine Learning Research 145 (2022):1–18
   highlight: 0
-
-- title: "A general-purpose, inelastic, rotation-free Kirchhoff–Love shell formulation for peridynamics"
-  image: ""
-  description: ""
+- title: A general-purpose, inelastic, rotation-free Kirchhoff–Love shell formulation
+    for peridynamics
+  image: ''
+  description: ''
   authors: Masoud Behzadinasab, Mert Alaydin, Nathaniel Trask, Yuri Bazilevs
   link:
-  url: https://doi.org/10.1016/j.cma.2021.114422
-  display: Computer Methods in Applied Mechanics and Engineering 389:114422 (2022). DOI:10.1016/j.cma.2021.114422
+    url: https://doi.org/10.1016/j.cma.2021.114422
+    display: Computer Methods in Applied Mechanics and Engineering 389:114422 (2022)
   highlight: 0
-
-- title: "Enforcing exact physics in scientific machine learning: a data-driven exterior calculus on graphs"
-  image: ""
-  description: ""
+- title: 'Enforcing exact physics in scientific machine learning: a data-driven exterior
+    calculus on graphs'
+  image: ''
+  description: ''
   authors: Nathaniel Trask, Andrew Huang, Xujiao Hu
   link:
-  url: https://doi.org/10.1016/j.jcp.2022.110969
-  display: Journal of Computational Physics 110969 (2022). DOI:10.1016/j.jcp.2022.110969
+    url: https://doi.org/10.1016/j.jcp.2022.110969
+    display: Journal of Computational Physics 110969 (2022)
   highlight: 0
-
-- title: "Coupling of IGA and Peridynamics for air-blast fluid–structure interaction using an immersed approach"
-  image: ""
-  description: ""
-  authors: Masoud Behzadinasab, Georgios Moutsanidis, Nathaniel A. Trask, John T. Foster, Yuri Bazilevs
+- title: Coupling of IGA and Peridynamics for air-blast fluid–structure interaction
+    using an immersed approach
+  image: ''
+  description: ''
+  authors: Masoud Behzadinasab, Georgios Moutsanidis, Nathaniel A. Trask, John T.
+    Foster, Yuri Bazilevs
   link:
-  url: https://doi.org/10.1016/j.finmec.2021.100045
-  display: Forces in Mechanics 4:100045 (2021). DOI:10.1016/j.finmec.2021.100045
+    url: https://doi.org/10.1016/j.finmec.2021.100045
+    display: Forces in Mechanics 4:100045 (2021)
   highlight: 0
-
-- title: "Machine learning structure-preserving brackets for forecasting irreversible processes"
-  image: ""
-  description: ""
+- title: Machine learning structure-preserving brackets for forecasting irreversible
+    processes
+  image: ''
+  description: ''
   authors: Kookjin Lee, Nathaniel A. Trask, Panos Stinis
   link:
-  url: https://proceedings.neurips.cc/paper/2021/hash/0fe83cf7a58b8fe7dc7202e6b61f19f5-Abstract.html
-  display: NeurIPS 34 (2021)
+    url: https://proceedings.neurips.cc/paper/2021/hash/0fe83cf7a58b8fe7dc7202e6b61f19f5-Abstract.html
+    display: NeurIPS 34 (2021)
   highlight: 0
-
-- title: "An asymptotically compatible treatment of traction loading in linearly elastic peridynamic fracture"
-  image: ""
-  description: ""
+- title: An asymptotically compatible treatment of traction loading in linearly elastic
+    peridynamic fracture
+  image: ''
+  description: ''
   authors: Yue Yu, Huaiqian You, Nathaniel A. Trask
   link:
-  url: https://doi.org/10.1016/j.cma.2020.113691
-  display: Computer Methods in Applied Mechanics and Engineering 377:113691 (2021). DOI:10.1016/j.cma.2020.113691
+    url: https://doi.org/10.1016/j.cma.2020.113691
+    display: Computer Methods in Applied Mechanics and Engineering 377:113691 (2021)
   highlight: 0
-
-- title: "A unified, stable and accurate meshfree framework for peridynamic correspondence modeling — Part I: core methods"
-  image: ""
-  description: ""
+- title: 'A unified, stable and accurate meshfree framework for peridynamic correspondence
+    modeling — Part I: core methods'
+  image: ''
+  description: ''
   authors: Masoud Behzadinasab, Nathaniel Trask, Yuri Bazilevs
   link:
-  url: https://link.springer.com/article/10.1007/s42102-020-00040-z
-  display: Journal of Peridynamics and Nonlocal Modeling 3(1):24–45 (2021). DOI:10.1007/s42102-020-00040-z
+    url: https://link.springer.com/article/10.1007/s42102-020-00040-z
+    display: Journal of Peridynamics and Nonlocal Modeling 3(1):24–45 (2021)
   highlight: 0
-
-- title: "Thermodynamically consistent physics-informed neural networks for hyperbolic systems"
-  image: ""
-  description: ""
-  authors: Ravi G. Patel, Indu Manickam, Nathaniel A. Trask, Mitchell A. Wood, Minseok Lee, Isaac Tomas, Eric C. Cyr
+- title: Thermodynamically consistent physics-informed neural networks for hyperbolic
+    systems
+  image: ''
+  description: ''
+  authors: Ravi G. Patel, Indu Manickam, Nathaniel A. Trask, Mitchell A. Wood, Minseok
+    Lee, Isaac Tomas, Eric C. Cyr
   link:
-  url: https://doi.org/10.1016/j.jcp.2021.110754
-  display: Journal of Computational Physics 449:110754 (2022). DOI:10.1016/j.jcp.2021.110754
+    url: https://doi.org/10.1016/j.jcp.2021.110754
+    display: Journal of Computational Physics 449:110754 (2022)
   highlight: 0
-
-- title: "Data-driven learning of nonlocal physics from high-fidelity synthetic data"
-  image: ""
-  description: ""
-  authors: Huaiqian You, Yue Yu, Nathaniel A. Trask, Mamikon Gulian, Marta D’Elia
-  link:
-  url: https://doi.org/10.1016/j.cma.2020.113553
-  display: Computer Methods in Applied Mechanics and Engineering 374:113553 (2021). DOI:10.1016/j.cma.2020.113553
-  highlight: 0
-
-- title: "Physics-Informed Graph Neural Network for circuit compact model development"
-  image: ""
-  description: ""
-  authors: Xujiao Gao, Andy Huang, Nathaniel Trask, Shahed Reza
-  link:
-  url: https://doi.org/10.23919/SISPAD49475.2020.9241634
-  display: Proc. SISPAD 2020, pp. 359–362. DOI:10.23919/SISPAD49475.2020.9241634
-  highlight: 0
-
-- title: "Asymptotically compatible reproducing kernel collocation and meshfree integration for nonlocal diffusion"
-  image: ""
-  description: ""
-  authors: Yu Leng, Xiaochuan Tian, Nathaniel Trask, John T. Foster
-  link:
-  url: https://doi.org/10.1137/19M1277801
-  display: SIAM Journal on Numerical Analysis 59(1):88–118 (2021). DOI:10.1137/19M1277801
-  highlight: 0
-
-- title: "Data-driven learning of nonlocal physics from high-fidelity synthetic data"
-  image: ""
-  description: ""
+- title: Data-driven learning of nonlocal physics from high-fidelity synthetic data
+  image: ''
+  description: ''
   authors: Huaiqian You, Yue Yu, Nathaniel A. Trask, Mamikon Gulian, Marta D’Elia
   link:
     url: https://doi.org/10.1016/j.cma.2020.113553
     display: Computer Methods in Applied Mechanics and Engineering 374:113553 (2021)
   highlight: 0
-
-- title: "Physics-Informed Graph Neural Network for circuit compact model development"
-  image: ""
-  description: ""
-  authors: Xiaoqing Gao, Andy Huang, Nathaniel A. Trask, Shahed Reza
+- title: Physics-Informed Graph Neural Network for circuit compact model development
+  image: ''
+  description: ''
+  authors: Xujiao Gao, Andy Huang, Nathaniel Trask, Shahed Reza
   link:
     url: https://doi.org/10.23919/SISPAD49475.2020.9241634
-    display: Proc. SISPAD 2020, pp. 359–362. IEEE
+    display: SISPAD 2020, pp. 359–362
   highlight: 0
-
-- title: "Asymptotically compatible reproducing kernel collocation and meshfree integration for nonlocal diffusion"
-  image: ""
-  description: ""
-  authors: Yu Leng, Xiaochuan Tian, Nathaniel A. Trask, John T. Foster
+- title: Asymptotically compatible reproducing kernel collocation and meshfree integration
+    for nonlocal diffusion
+  image: ''
+  description: ''
+  authors: Yu Leng, Xiaochuan Tian, Nathaniel Trask, John T. Foster
   link:
     url: https://doi.org/10.1137/19M1277801
     display: SIAM Journal on Numerical Analysis 59(1):88–118 (2021)
   highlight: 0
-
-- title: "Interface flux recovery coupling method for the ocean–atmosphere system"
-  image: ""
-  description: ""
+- title: Interface flux recovery coupling method for the ocean–atmosphere system
+  image: ''
+  description: ''
   authors: K. C. Sockwell, K. Peterson, Paul Kuberry, Pavel Bochev, Nathaniel A. Trask
   link:
     url: https://doi.org/10.1016/j.rinam.2020.100116
     display: Results in Applied Mathematics 7:100116 (2020)
   highlight: 0
-
-- title: "Asymptotically compatible reproducing kernel collocation and meshfree integration for the peridynamic Navier equation"
-  image: ""
-  description: ""
+- title: Asymptotically compatible reproducing kernel collocation and meshfree integration
+    for the peridynamic Navier equation
+  image: ''
+  description: ''
   authors: Yu Leng, Xiaochuan Tian, Nathaniel A. Trask, John T. Foster
   link:
     url: https://doi.org/10.1016/j.cma.2020.113264
     display: Computer Methods in Applied Mechanics and Engineering 370:113264 (2020)
   highlight: 0
-
-- title: "A unified, stable and accurate meshfree framework for peridynamic correspondence modeling — Part I: core methods"
-  image: ""
-  description: ""
-  authors: Masoud Behzadinasab, Nathaniel A. Trask, Yuri Bazilevs
-  link:
-    url: https://doi.org/10.1007/s42102-020-00040-z
-    display: Journal of Peridynamics and Nonlocal Modeling (2020)
-  highlight: 0
-
-- title: "Robust training and initialization of deep neural networks: An adaptive basis viewpoint"
-  image: ""
-  description: ""
-  authors: Eric C. Cyr, Mamikon Gulian, Ravi G. Patel, Mauro Perego, Nathaniel A. Trask
+- title: 'Robust training and initialization of deep neural networks: An adaptive
+    basis viewpoint'
+  image: ''
+  description: ''
+  authors: Eric C. Cyr, Mamikon Gulian, Ravi G. Patel, Mauro Perego, Nathaniel A.
+    Trask
   link:
     url: https://proceedings.mlr.press/v107/cyr20a.html
     display: Mathematical and Scientific Machine Learning (PMLR 107):512–536 (2020)
   highlight: 0
-
-- title: "An asymptotically compatible approach for Neumann-type boundary conditions on nonlocal problems"
-  image: ""
-  description: ""
+- title: An asymptotically compatible approach for Neumann-type boundary conditions
+    on nonlocal problems
+  image: ''
+  description: ''
   authors: Huaiqian You, Xiantao Lu, Nathaniel A. Trask, Yue Yu
   link:
     url: https://doi.org/10.1051/m2an/2020023
-    display: ESAIM: Mathematical Modelling and Numerical Analysis 54(4):1373–1413 (2020)
+    display: 'ESAIM: M2AN 54(4):1373–1413 (2020)'
   highlight: 0
-
-- title: "Meshfree methods on manifolds for hydrodynamic flows on curved surfaces: A Generalized Moving Least-Squares approach"
-  image: ""
-  description: ""
+- title: 'Meshfree methods on manifolds for hydrodynamic flows on curved surfaces:
+    A Generalized Moving Least-Squares approach'
+  image: ''
+  description: ''
   authors: Benjamin J. Gross, Nathaniel A. Trask, Paul Kuberry, Peter J. Atzberger
   link:
     url: https://doi.org/10.1016/j.jcp.2020.109340
     display: Journal of Computational Physics 409:109340 (2020)
   highlight: 0
-
-- title: "A conservative, consistent, and scalable meshfree mimetic method"
-  image: ""
-  description: ""
+- title: A conservative, consistent, and scalable meshfree mimetic method
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Pavel Bochev, Mauro Perego
   link:
     url: https://doi.org/10.1016/j.jcp.2020.109187
     display: Journal of Computational Physics 409:109187 (2020)
   highlight: 0
-
-- title: "Compatible meshfree discretization of surface PDEs"
-  image: ""
-  description: ""
+- title: Compatible meshfree discretization of surface PDEs
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Paul Kuberry
   link:
     url: https://doi.org/10.1007/s40571-019-00272-5
     display: Computational Particle Mechanics 7(2):271–277 (2020)
   highlight: 0
-
-- title: "Optimization Based Particle-Mesh Algorithm for High-Order and Conservative Scalar Transport"
-  image: ""
-  description: ""
+- title: Optimization Based Particle-Mesh Algorithm for High-Order and Conservative
+    Scalar Transport
+  image: ''
+  description: ''
   authors: J. M. Maljaars, R. J. Labeur, Nathaniel A. Trask, Deborah L. Sulsky
   link:
     url: https://doi.org/10.1007/978-3-030-22750-0_24
     display: Lecture Notes in Computational Science and Engineering 132:265–275 (2020)
   highlight: 0
-
-- title: "Stochastic Discontinuous Galerkin Methods (SDGM) based on fluctuation–dissipation balance"
-  image: ""
-  description: ""
+- title: Stochastic Discontinuous Galerkin Methods (SDGM) based on fluctuation–dissipation
+    balance
+  image: ''
+  description: ''
   authors: William Pazner, Nathaniel A. Trask, Peter J. Atzberger
   link:
     url: https://doi.org/10.1016/j.rinam.2019.100014
     display: Results in Applied Mathematics 4:100014 (2019)
   highlight: 0
-
-- title: "A spatially adaptive high-order meshless method for fluid–structure interactions"
-  image: ""
-  description: ""
+- title: A spatially adaptive high-order meshless method for fluid–structure interactions
+  image: ''
+  description: ''
   authors: Weiming Hu, Nathaniel A. Trask, Xujiao Hu, Wenxiao Pan
   link:
     url: https://doi.org/10.1016/j.cma.2019.112657
     display: Computer Methods in Applied Mechanics and Engineering 355:112657 (2019)
   highlight: 0
-
-- title: "Mitigation of the self-force effect in unstructured PIC codes using generalized moving least squares"
-  image: ""
-  description: ""
+- title: Mitigation of the self-force effect in unstructured PIC codes using generalized
+    moving least squares
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Pavel Bochev, Mauro Perego
   link:
     url: https://doi.org/10.1016/j.camwa.2019.06.016
     display: Computers & Mathematics with Applications 78(2):688–705 (2019)
   highlight: 0
-
-- title: "Mesh-hardened finite element analysis through a Generalized Moving Least-Squares approximation of variational problems"
-  image: ""
-  description: ""
+- title: Mesh-hardened finite element analysis through a Generalized Moving Least-Squares
+    approximation of variational problems
+  image: ''
+  description: ''
   authors: Pavel Bochev, Nathaniel A. Trask, Paul Kuberry, Mauro Perego
   link:
     url: https://doi.org/10.1007/978-3-030-19086-6_8
     display: Large-Scale Scientific Computing, LNCS 11958:67–75 (2019)
   highlight: 0
-
-- title: "Conservative, high-order particle–mesh scheme with applications to advection-dominated flows"
-  image: ""
-  description: ""
+- title: Conservative, high-order particle–mesh scheme with applications to advection-dominated
+    flows
+  image: ''
+  description: ''
   authors: J. M. Maljaars, R. J. Labeur, Nathaniel A. Trask, Deborah Sulsky
   link:
     url: https://doi.org/10.1016/j.cma.2019.112792
     display: Computer Methods in Applied Mechanics and Engineering 348:443–465 (2019)
   highlight: 0
-
-- title: "An asymptotically compatible meshfree quadrature rule for nonlocal problems with applications to peridynamics"
-  image: ""
-  description: ""
+- title: An asymptotically compatible meshfree quadrature rule for nonlocal problems
+    with applications to peridynamics
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Huaiqian You, Yue Yu, Michael L. Parks
   link:
     url: https://doi.org/10.1016/j.cma.2018.08.032
     display: Computer Methods in Applied Mechanics and Engineering 343:151–165 (2019)
   highlight: 0
-
-- title: "A compatible high-order meshless method for the Stokes equations with applications to suspension flows"
-  image: ""
-  description: ""
+- title: A compatible high-order meshless method for the Stokes equations with applications
+    to suspension flows
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Michael Maxey, Xujiao Hu
   link:
     url: https://doi.org/10.1016/j.jcp.2018.09.007
     display: Journal of Computational Physics 355:310–329 (2018)
   highlight: 0
-
-- title: "A high-order staggered meshless method for elliptic problems"
-  image: ""
-  description: ""
+- title: A high-order staggered meshless method for elliptic problems
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Mauro Perego, Pavel Bochev
   link:
     url: https://doi.org/10.1137/16M1109612
     display: SIAM Journal on Scientific Computing 39(2):A479–A502 (2017)
   highlight: 0
-
-- title: "Compact moving least squares: an optimization framework for generating high-order compact meshless discretizations"
-  image: ""
-  description: ""
+- title: 'Compact moving least squares: an optimization framework for generating high-order
+    compact meshless discretizations'
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Michael Maxey, Xujiao Hu
   link:
     url: https://doi.org/10.1016/j.jcp.2016.09.038
     display: Journal of Computational Physics 326:596–611 (2016)
   highlight: 0
-
-- title: "Intercomparison of 3D pore-scale flow and solute transport simulation methods"
-  image: ""
-  description: ""
-  authors: Xin Yang, Yashar Mehmani, William A. Perkins, Alberto Pasquali, Matthias Schonherr, Kang Kim, Mauro Perego, Michael L. Parks, Nathaniel A. Trask, Matthew T. Balhoff, Michael C. Richmond
+- title: Intercomparison of 3D pore-scale flow and solute transport simulation methods
+  image: ''
+  description: ''
+  authors: Xin Yang, Yashar Mehmani, William A. Perkins, Alberto Pasquali, Matthias
+    Schonherr, Kang Kim, Mauro Perego, Michael L. Parks, Nathaniel A. Trask, Matthew
+    T. Balhoff, Michael C. Richmond
   link:
     url: https://doi.org/10.1016/j.advwatres.2016.06.012
     display: Advances in Water Resources 95:176–189 (2016)
   highlight: 0
-
-- title: "Smoothed particle hydrodynamics and its applications for multiphase flow and reactive transport in porous media"
-  image: ""
-  description: ""
-  authors: Alexander M. Tartakovsky, Nathaniel A. Trask, Kang Pan, Benjamin Jones, Wenxiao Pan, James R. Williams
+- title: Smoothed particle hydrodynamics and its applications for multiphase flow
+    and reactive transport in porous media
+  image: ''
+  description: ''
+  authors: Alexander M. Tartakovsky, Nathaniel A. Trask, Kang Pan, Benjamin Jones,
+    Wenxiao Pan, James R. Williams
   link:
     url: https://doi.org/10.1007/s10596-016-9576-4
     display: Computational Geosciences 20(4):807–834 (2016)
   highlight: 0
-
-- title: "A scalable consistent second-order SPH solver for unsteady low Reynolds number flows"
-  image: ""
-  description: ""
+- title: A scalable consistent second-order SPH solver for unsteady low Reynolds number
+    flows
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, Michael Maxey, et al.
   link:
     url: https://doi.org/10.1016/j.cma.2015.03.017
     display: Computer Methods in Applied Mechanics and Engineering 296:305–326 (2015)
   highlight: 0
-
-- title: "Diesel spray CFD simulations based on the Sigma–Y Eulerian atomization model"
-  image: ""
-  description: ""
-  authors: José M. García-Oliver, José M. Pastor, Ankur Pandal, Nathaniel A. Trask, Eric Baldwin, David P. Schmidt
+- title: Diesel spray CFD simulations based on the Sigma–Y Eulerian atomization model
+  image: ''
+  description: ''
+  authors: José M. García-Oliver, José M. Pastor, Ankur Pandal, Nathaniel A. Trask,
+    Eric Baldwin, David P. Schmidt
   link:
     url: https://doi.org/10.1615/AtomizSpr.2013007841
     display: Atomization and Sprays 23(1):71–95 (2013)
   highlight: 0
-
-- title: "Compressible modeling of the internal two-phase flow in a gas-centered swirl coaxial fuel injector"
-  image: ""
-  description: ""
+- title: Compressible modeling of the internal two-phase flow in a gas-centered swirl
+    coaxial fuel injector
+  image: ''
+  description: ''
   authors: Nathaniel A. Trask, David P. Schmidt, Matthew Lightfoot, Stephen Danczyk
   link:
     url: https://doi.org/10.2514/1.B34339
     display: Journal of Propulsion and Power 28(4):685–693 (2012)
   highlight: 0
-
-- title: "Multidimensional modeling of condensing two-phase ejector flow"
-  image: ""
-  description: ""
+- title: Multidimensional modeling of condensing two-phase ejector flow
+  image: ''
+  description: ''
   authors: Michael Colarossi, Nathaniel A. Trask, David P. Schmidt, Michael J. Bergander
   link:
     url: https://doi.org/10.1016/j.ijrefrig.2011.10.002
