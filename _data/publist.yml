@@ -15,3 +15,122 @@
     url: https://arxiv.org/abs/2508.06981
     display: arXiv preprint, arXiv:2508.06981 (Under review)
   highlight: 1
+
+- title: "Unsupervised physics-informed disentanglement of multimodal materials data"
+  image: placeholder.png
+  description: TODO
+  authors: "Nathaniel Trask, Carianne Martinez, Troy Shilt, Ethan Walker, Kookjin Lee, Andrew Garland, David P. Adams, John F. Curry, Matthew T. Dugger, Seth R. Larson, Bradley L. Boyce"
+  link:
+    url: https://doi.org/10.1016/j.mattod.2024.09.005
+    display: Materials Today, 80:286–296 (2024)
+  highlight: 0
+
+- title: "Efficiently Parameterized Neural Metriplectic Systems"
+  image: placeholder.png
+  description: TODO
+  authors: "Anthony Gruber, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask"
+  link:
+    url: https://arxiv.org/abs/2405.16305
+    display: arXiv:2405.16305 (Accepted to ICLR 2025)
+  highlight: 0
+
+- title: "Spiking Physics-Informed Neural Networks on Loihi 2"
+  image: placeholder.png
+  description: TODO
+  authors: "Bradley H. Theilman, Qi Zhang, Adar Kahana, Eric C. Cyr, Nathaniel Trask, James B. Aimone, George E. Karniadakis"
+  link:
+    url: https://openreview.net/forum?id=UUr0HfLXTH
+    display: Neuro Inspired Computational Elements (NICE) 2024, IEEE, pp. 1–6
+  highlight: 0
+
+- title: "A discontinuous piecewise polynomial generalized moving least squares scheme for robust finite element analysis on arbitrary grids"
+  image: placeholder.png
+  description: TODO
+  authors: "Paul Kuberry, Pavel Bochev, Jacob Koester, Nathaniel Trask"
+  link:
+    url: https://doi.org/10.1007/s00366-024-02036-5
+    display: Engineering with Computers (2024)
+  highlight: 0
+
+- title: "Flow-based parameterization for DAG and feature discovery in scientific multimodal data"
+  image: placeholder.png
+  description: TODO
+  authors: "Elise Walker, Jonas A. Actor, Carianne Martinez, Nathaniel Trask"
+  link:
+    url: https://doi.org/10.3389/fmech.2024.1408649
+    display: Frontiers in Mechanical Engineering, 10:1408649 (2024)
+  highlight: 0
+
+- title: "Graph Convolutions Enrich the Self-Attention in Transformers!"
+  image: placeholder.png
+  description: TODO
+  authors: "Jeongwhan Choi, Hyowon Wi, Jayoung Kim, Yehjin Shin, Kookjin Lee, Nathaniel Trask, Noseong Park"
+  link:
+    url: https://arxiv.org/abs/2312.04234
+    display: arXiv:2312.04234 (Accepted to NeurIPS 2024)
+  highlight: 0
+
+- title: "Entropy stable discontinuous Galerkin methods for the shallow water equations with subcell positivity preservation"
+  image: placeholder.png
+  description: TODO
+  authors: "Xinhui Wu, Nathaniel Trask, Jesse Chan"
+  link:
+    url: https://doi.org/10.1002/num.23129
+    display: Numerical Methods for Partial Differential Equations, 40(6):e23129 (2024)
+  highlight: 0
+
+- title: "Unsupervised physics-informed disentanglement of multimodal data"
+  image: placeholder.png
+  description: TODO
+  authors: "Elise Walker, Nathaniel Trask, Carianne Martinez, Kookjin Lee, Jonas A. Actor, Sourav Saha, Troy Shilt, Daniel Vizoso, Remi Dingreville, Brad L. Boyce"
+  link:
+    url: https://www.aimsciences.org/article/doi/10.3934/fods.2024019
+    display: Foundations of Data Science (2024)
+  highlight: 0
+
+- title: "Reversible and irreversible bracket-based dynamics for deep graph neural networks"
+  image: placeholder.png
+  description: TODO
+  authors: "Anthony Gruber, Kookjin Lee, Nathaniel Trask"
+  link:
+    url: https://arxiv.org/abs/2305.15616
+    display: Advances in Neural Information Processing Systems 36 (2024)
+  highlight: 0
+
+- title: "Data-driven Whitney forms for structure-preserving control volume analysis"
+  image: placeholder.png
+  description: TODO
+  authors: "Jonas A. Actor, Xiaozhe Hu, Andy Huang, Scott A. Roberts, Nathaniel Trask"
+  link:
+    url: https://doi.org/10.1016/j.jcp.2023.112520
+    display: Journal of Computational Physics, 496:112520 (2024)
+  highlight: 0
+
+- title: "A stable mimetic finite-difference method for convection-dominated diffusion equations"
+  image: placeholder.png
+  description: TODO
+  authors: "James H. Adler, Casey Cavanaugh, Xiaozhe Hu, Andy Huang, Nathaniel Trask"
+  link:
+    url: https://doi.org/10.1137/22M1514337
+    display: SIAM Journal on Scientific Computing, 45(6):A2973–A3000 (2023)
+  highlight: 0
+
+- title: "Probabilistic partition of unity networks for high-dimensional regression problems"
+  image: placeholder.png
+  description: TODO
+  authors: "Tiffany Fan, Nathaniel Trask, Marta D’Elia, Eric Darve"
+  link:
+    url: https://doi.org/10.1002/nme.7207
+    display: International Journal for Numerical Methods in Engineering, 124(10):2215–2236 (2023)
+  highlight: 0
+
+- title: "Special issue of Computational Mechanics on machine learning theories, modeling, and applications to computational materials science, additive manufacturing, mechanics of materials, design and optimization"
+  image: placeholder.png
+  description: TODO
+  authors: "Wing Kam Liu, Miguel A. Bessa, Francisco Chinesta, Shaofan Li, Nathaniel Trask"
+  link:
+    url: https://doi.org/10.1007/s00466-023-02337-4
+    display: Computational Mechanics, 72:1–2 (2023) Editorial
+  highlight: 0
+
+  
