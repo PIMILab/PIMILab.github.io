@@ -15,7 +15,16 @@
     url: https://arxiv.org/abs/2508.06981
     display: arXiv preprint, arXiv:2508.06981 (Under review)
   highlight: 1
-  
+
+- title: "A discontinuous piecewise polynomial generalized moving least squares scheme for robust finite element analysis on arbitrary grids"
+  image: ""
+  description: ""
+  authors: "Paul Kuberry, Pavel Bochev, Jeffrey Koester, Nathaniel Trask"
+  link:
+    url: https://doi.org/10.1007/s00366-024-01906-2
+    display: Engineering with Computers 41(3):1535–1554 (2025)
+  highlight: 0
+
 - title: Unsupervised physics-informed disentanglement of multimodal materials data
   image: ''
   description: ''
