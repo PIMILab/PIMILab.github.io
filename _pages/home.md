@@ -56,9 +56,9 @@ We develop machine learning methods grounded in the **structure of physics and g
 
 
 <figure class="fifth" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 2%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="width: 18%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/doe.png" style="width: 18%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dod.jpg" style="width: 18%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/nsf.jpg" style="width: 18%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/seacrogs.png" style="width: 18%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="width: 18%; margin-right: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/doe.png" style="width: 14%; margin-right: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dod.jpg" style="width: 14%; margin-right: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/nsf.jpg" style="width: 18%; margin-right: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/seacrogs.png" style="width: 18%; margin-right: 2%;">
 </figure>
