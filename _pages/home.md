@@ -56,11 +56,12 @@ We develop machine learning methods grounded in the **structure of physics and g
 
 
 <figure class="fifth" style="
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    flex-wrap: wrap; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     gap: 2%;
+    text-align: center;
 ">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/sandia.png" style="width: 18%;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/doe.png" style="width: 14%;">
