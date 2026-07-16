@@ -23,6 +23,7 @@ We develop machine learning methods grounded in the **structure of physics and g
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -42,7 +43,11 @@ We develop machine learning methods grounded in the **structure of physics and g
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/teaser4.png" 
             alt="Slide 4" style="display:block; margin: 0 auto; max-height:450px; width:auto;" />
-        </div>        
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teaser/theta_sweep_predictions.gif" 
+            alt="Slide 5" style="display:block; margin: 0 auto; max-height:450px; width:auto;" />
+        </div>   
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
